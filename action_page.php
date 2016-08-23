@@ -1,0 +1,1 @@
+<!--not active..ideally, submitted player information could be stored in a different document linked to the website-->
